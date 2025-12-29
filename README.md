@@ -7,7 +7,7 @@ The project goes beyond basic CRUD operations by implementing:
 -JWT authentication
 -role based authorization
 -business rules
-- dynamic frontend behavior based on user role and state
+-dynamic frontend behavior based on user role and state
 
 
 
@@ -188,7 +188,7 @@ Frontend will run on port 5173
 
 ![(Admin) view overdue books](appScreenshots/ADMINoverdue.png)
 
-![(Admin) update book SUCCESS](appScreenshots/ADMINupdateSUCCESS.png)
+![(Admin) update book SUCCESS](appScreenshots/ADMINupateSUCCESS.png)
 
 ![(Admin) update book ERROR](appScreenshots/ADMINupdateERROR.png)
 
