@@ -1,0 +1,22 @@
+# BACKEND 
+/backend/target/
+/backend/.idea/
+/backend/privateKey.pem
+
+#FRONTEND 
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.vs/
+
+# ENV 
+.env
+.env.*
+
+#IDE
+.idea
+.vscode
+*.iml
+
+#OS 
+.DS_Store
+Thumbs.db
